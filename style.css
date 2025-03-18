@@ -1,0 +1,32 @@
+
+     h1{
+        color: rgb(222, 34, 34);
+        background: yellow;
+        text-shadow: rgb(10, 229, 86) 2px -5px 2px;
+        background-image: url();
+        background-size: cover;
+    }
+    table {
+        border: 3px solid blue;
+        width: 750px;
+    }
+    th {
+        background: yellowgreen;
+        padding: 5px;
+        font-family: cursive;
+    }
+    td{
+        padding: 10px;
+        font-family: cursive;
+    }
+    tr:nth-of-type(odd) {
+            background: orange;
+    }
+    body{
+        background-image: url(narasaraopeta_engineering_college_logo.jpeg);
+        background-size: cover;
+        background-position: center;
+    }
+     img{
+        text-align: center;
+     }
